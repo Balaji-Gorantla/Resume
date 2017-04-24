@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.23)  24 APR 2017 08:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.23)  24 APR 2017 09:51
 entering extended mode
 **"./eysip resume.tex"
 ("eysip resume.tex"
@@ -265,7 +265,7 @@ G,.JBIG2,.JB2,.eps]
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
-* \voffset=-10.0pt
+* \voffset=-15.0pt
 * \mag=1000
 * \@twocolumnfalse
 * \@twosidefalse
@@ -294,7 +294,7 @@ File: IMG_20170423_160215.jpg Graphic file (type jpg)
 
 <use IMG_20170423_160215.jpg>
 Package pdftex.def Info: IMG_20170423_160215.jpg used on input line 40.
-(pdftex.def)             Requested size: 84.10059pt x 110.92966pt.
+(pdftex.def)             Requested size: 70.09094pt x 92.45079pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -308,23 +308,23 @@ Overfull \hbox (126.25436pt too wide) in paragraph at lines 50--61
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./IMG_20170423_160215.jpg
 >]
-Overfull \hbox (54.135pt too wide) in paragraph at lines 116--125
+Overfull \hbox (54.135pt too wide) in paragraph at lines 117--126
 [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
  ("eysip resume.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
 Package rerunfilecheck Info: File `"eysip resume".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 115 ({)
+### simple group (level 1) entered at line 116 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  5524 strings out of 493333
@@ -340,7 +340,7 @@ C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on "eysip resume.pdf" (2 pages, 819216 bytes).
+Output written on "eysip resume.pdf" (2 pages, 819285 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
