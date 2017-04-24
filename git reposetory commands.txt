@@ -1,0 +1,5 @@
+git clone  https://github.com/Balaji-Gorantla/Resume.git
+cd <folder_name>
+git add .
+git commit -m "Resume Latex Files Added"
+git push origin master
